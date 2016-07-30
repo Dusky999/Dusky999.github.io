@@ -156,6 +156,9 @@ hr.short-thick {
 .margtop{
   margin-top: 60px;
 }
+.margtop100{
+  margin-top: 100px;
+}
 .vnu {
   display: inline;
 }
@@ -447,7 +450,7 @@ a:hover {
 }
 a {
   font-weight: 600;
-  color: #47b475;
+  color: #1a9bd7;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -470,7 +473,7 @@ a {
   opacity: 1;
 }
 a:hover {
-  color: #398f5d;
+  color: #000;
   text-decoration: none;
 }
 .label {
@@ -565,6 +568,9 @@ ul.lead li {
 .mb60{
   margin-bottom: 60px;
   color: red;
+}
+.centrujem{
+  height: 100%;
 }
 .mobil-hide{
   display: none;
