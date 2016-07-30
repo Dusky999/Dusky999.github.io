@@ -153,6 +153,9 @@ hr.short-thick {
 .container {
   position: relative;
 }
+.margtop{
+  margin-top: 60px;
+}
 .vnu {
   display: inline;
 }
@@ -191,6 +194,11 @@ hr.short-thick {
   flex-direction: row;
   -webkit-flex-direction: row;
 }
+
+.obrazok{
+  width: 250px;
+}
+
 .v-align-children-column {
   display: -webkit-flex;
   display: -moz-flex;
@@ -825,10 +833,10 @@ footer.bg-dark li,
 }
 .image-bg .btn.btn-filled,
 .image-bg .btn-filled:visited {
-  border-color: #47b475;
+  border-color: #1a9bd7;
 }
 .image-bg .btn-filled:hover {
-  border-color: #fff;
+  border-color: #1a9bd7;
 }
 .btn-rounded {
   border-radius: 25px;
@@ -863,7 +871,7 @@ body.btn-rounded .btn {
 }
 .btn.bg-dark {
   color: #fff;
-  border-color: #292929;
+  border-color: #1a9bd7;
 }
 .btn.bg-dark:hover {
   background: #434343;
@@ -874,7 +882,7 @@ body.btn-rounded .btn {
 }
 .bg-primary .btn:hover {
   background: #fff;
-  color: #47b475;
+  color: #1a9bd7;
 }
 /*!---------- 7. NAVIGATION ----------*/
 .nav-container {
