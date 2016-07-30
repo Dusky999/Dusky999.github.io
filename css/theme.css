@@ -506,6 +506,13 @@ blockquote {
   background: #fff;
   border-color: #47b475;
 }
+
+.fotka{
+  width: 250px;
+}
+.seda{
+  color: #cfd2da;
+}
 blockquote .author {
   font-size: 12px;
   display: block;
